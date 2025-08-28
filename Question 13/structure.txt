@@ -1,0 +1,7 @@
+ecommerce/                 # Main package
+│
+├── __init__.py            # Makes ecommerce a package
+│
+├── product_management.py  # Module for product-related operations
+│
+└── order_processing.py    # Module for order-related operations
