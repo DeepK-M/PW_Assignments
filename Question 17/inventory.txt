@@ -1,0 +1,3 @@
+Item: Laptop, Quantity: 10
+Item: Mouse, Quantity: 50
+Item: Keyboard, Quantity: 20

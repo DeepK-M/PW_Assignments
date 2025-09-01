@@ -1,0 +1,6 @@
+Name		Age	Salary
+------------------------------
+Amit Sharma	30	50000
+Priya Verma	28	60000
+Rajesh Kumar	35	75000
+Sneha Gupta	25	45000

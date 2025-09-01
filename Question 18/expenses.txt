@@ -1,0 +1,5 @@
+Rent: 12000
+Groceries: 4500
+Electricity: 2000
+Internet: 1000
+Transport: 1500
