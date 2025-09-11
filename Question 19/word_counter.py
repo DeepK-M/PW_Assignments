@@ -34,3 +34,17 @@ def count_words():
 
 if __name__ == "__main__":
     count_words()
+
+
+
+# Example usage:
+# Word Frequencies (Alphabetical Order):
+
+# and: 1
+# easy: 1
+# great: 1
+# is: 3
+# learn: 1
+# powerful: 1
+# python: 3
+# to: 1
